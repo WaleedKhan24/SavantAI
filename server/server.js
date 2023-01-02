@@ -45,7 +45,7 @@ app.post('/', async (req, res) => {
   }
 })
 
-app.listen(5000, () => console.log('AI server started on https://codex-im0y.onrender.com/'))
+app.listen(5000, () => console.log('AI server started on https://savantai.onrender.com'))
 //This code contains several comments that provide information about the parameters being set for an AI model.
 
 //The first comment explains that a higher value for the "max_tokens" parameter means that the model will take more risks in its output.
